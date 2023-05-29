@@ -1,10 +1,9 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# Learn Regex fast
+In this tutorial you will be taught the basics of regex and how it can be implemented in your code. The easiest way to under regex is to know it is used for descrbing patterns. You will see it used to validate specific strings or text in a document.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+You often see regex used in search engines, word processors, and text editors below we have multiple examples on how you would use regex components to do certain task.
 
 This is a regex for a name
 ''''
@@ -18,7 +17,7 @@ This is a regex for a name
 
 ## Table of Contents
 
-- [Title (replace with your title)](#title-replace-with-your-title)
+- [Learn Regex fast](#learn-regex-fast)
   - [Summary](#summary)
   - [Table of Contents](#table-of-contents)
   - [Regex Components](#regex-components)
@@ -89,4 +88,4 @@ Back reference will remember a a regex sequence and you can call it again with <
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+[Esfandiar Behbehani is a business major studying at FSU while also studying full-stack development at UCI. At my github you can find many of my other projects and examples.](https://github.com/Esfan7)
